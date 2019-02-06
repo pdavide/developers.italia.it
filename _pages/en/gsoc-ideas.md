@@ -272,6 +272,54 @@ And, if possible, an *easy, medium or hard* rating of each project.
             <td>Medium</td>
             <td><a href="https://developersitalia.slack.com/messages/C7VPAUVB3">#design-devel</a></td>
         </tr>
+       <tr role="row" class="even">
+            <td tabindex="0">API</td>
+            <td>
+                <b>Port the <i>gen-api-models</i> tool to OpenAPI v3</b><br /> 
+                This proposal involves a set of tools used across the “IO” project. 
+                In particular, the <i>gen-api-models</i> tool allows to generate TypeScript definitions of OpenAPI specs. 
+                As such, this proposal requires adapting the existing tool to support the newer 
+                <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/">Interoperability Guidelines</a>. 
+                <br />
+                <b>Mentor:</b> Developers and API experts of the Developers Italia team.
+                <br />
+                <b>Expected outcome:</b>  
+                the practical work will consist in writing software, tests and documentation 
+                in order to reach a stable and usable release of the tool.
+                <br />
+                <b>Required skills:</b>
+                <ul>
+                    <li>- Typescript</li>
+                    <li>- REST API Design / OpenAPI v3</li>
+                    <li>- Web Development</li>
+                </ul>
+            </td>
+            <td>Medium</td>
+            <td><a href="https://developersitalia.slack.com/messages/CDKBYTG74">#api</a></td>
+        </tr>
+        <tr role="row" class="odd">
+            <td tabindex="0">API</td>
+            <td>
+                <b>Interoperability Model</b><br /> 
+
+                This project is focused on the new <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/">Interoperability Guidelines</a> based on the OpenAPI v3 specifications. 
+                As such, the work will consist in the implementation of such guidelines inside some existing popular open source API GW. 
+                For example, some novel features like e.g., <i>throttling</i>, will have to be implemented in tools like e.g., <i>Kong, WSO2, 3Scale</i>.
+                <br />
+                <b>Mentor:</b> Developers and API experts of the Developers Italia team.
+                <br />
+                <b>Expected outcome:</b>  
+                Patches merged upstream together with solid tests and documentations. 
+                <br />
+                <b>Required skills:</b>
+                <ul>
+                    <li>- Web Development</li>
+                    <li>- REST API Design / OpenAPI v3</li>
+                </ul>
+            </td>
+            <td>Medium</td>
+            <td><a href="https://developersitalia.slack.com/messages/CDKBYTG74">#api</a></td>
+        </tr>
         <tr role="row" class="even">
             <td tabindex="0">General</td>
             <td>
@@ -290,5 +338,6 @@ And, if possible, an *easy, medium or hard* rating of each project.
             <td>Up to you</td>
             <td><a href="https://developersitalia.slack.com/messages/C8U3ZSM5M">#welcome</a></td>
         </tr>
+ 
     </tbody>
 </table>
