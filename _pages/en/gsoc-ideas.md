@@ -303,8 +303,11 @@ And, if possible, an *easy, medium or hard* rating of each project.
                 <b>Interoperability Model</b><br /> 
 
                 This project is focused on the new <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/">Interoperability Guidelines</a> based on the OpenAPI v3 specifications. 
-                As such, the work will consist in the implementation of such guidelines inside some existing popular open source API GW. 
-                For example, some novel features like e.g., <i>throttling</i>, will have to be implemented in tools like e.g., <i>Kong, WSO2, 3Scale</i>.
+                As such, the work will consist in the implementation of such
+                guidelines inside some existing popular open source API GW. 
+                For example, some novel features like e.g., <i>throttling</i>,
+                will have to be implemented in tools like e.g., <i>Kong,
+                WSO2</i>.
                 <br />
                 <b>Mentor:</b> Developers and API experts of the Developers Italia team.
                 <br />
@@ -323,10 +326,18 @@ And, if possible, an *easy, medium or hard* rating of each project.
         <tr role="row" class="even">
             <td tabindex="0">General</td>
             <td>
-                <b>Your own idea!!</b><br /> Something that you're totally excited about!<br />Do you have an awesome idea you want to work on with Developers Italia but that is not among the ideas below? That's cool. We love that! But please do us a
-                favor: Get in touch with a mentor early on and make sure your project is realistic and within the scope of Developers Italia. That will spare you and us a lot of frustration.
+                <b>Your own idea!!</b><br /> Something that you're totally
+                excited about!<br />Do you have an awesome idea you want to
+                work on with Developers Italia but that is not among the ideas
+                below? That's cool. We love that! But please do us a
+                favor: Get in touch with a mentor early on and make sure your
+                project is realistic and within the scope of Developers Italia.
+                That will spare you and us a lot of frustration.
                 <br />
-                <b>Mentor:</b> Propose your idea and ask who in Developers Italia is interested in what you want to work on and approach them. If you are unsure you can always ask in <a href="https://developersitalia.slack.com/messages/C8U3ZSM5M">#welcome</a>.
+                <b>Mentor:</b> Propose your idea and ask who in Developers
+                Italia is interested in what you want to work on and approach
+                them. If you are unsure you can always ask in <a
+                href="https://developersitalia.slack.com/messages/C8U3ZSM5M">#welcome</a>.
                 <br />
                 <b>Expected outcome:</b> To be discussed with your mentor...
                 <br />
