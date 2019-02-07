@@ -276,8 +276,7 @@ And, if possible, an *easy, medium or hard* rating of each project.
             <td tabindex="0">API</td>
             <td>
                 <b>Port the <i>gen-api-models</i> tool to OpenAPI v3</b><br /> 
-                This proposal involves a set of tools used across the “IO” project. 
-                In particular, the <i>gen-api-models</i> tool allows to generate TypeScript definitions of OpenAPI specs. 
+                The <i>gen-api-models</i> tool allows to generate TypeScript definitions of OpenAPI specs. 
                 As such, this proposal requires adapting the existing tool to support the newer 
                 <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/">Interoperability Guidelines</a>. 
                 <br />
